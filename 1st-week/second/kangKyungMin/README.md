@@ -4,7 +4,6 @@
  다른 파일을 만들지 않고 동일한 파일명에 진행 과정 기록
 2. CLI(Command Line Interface)를 왜 배워야 하는가?
 
-
 # git != GitHub
 1. git 과 github는 다릅니다. 어떻게 다른가요?
 
