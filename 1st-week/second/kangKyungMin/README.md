@@ -60,4 +60,5 @@ untracked file - 이전 commit에 들어 있지 않았고, 다음 commit에 stag
 1 - 새로 생성된 파일은 기본적으로 untracked 상태임<br>
 2 - .gitignore에 있는 파일은 의도적으로 추적하지 않음 (임시 파일, 보안이 필요한 파일 등)<br>
 
-3. 항상 무엇을 생활화하자?
+3. 항상 무엇을 생활화하자?<br>
+정기적 commit
