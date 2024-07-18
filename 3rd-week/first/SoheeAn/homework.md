@@ -49,8 +49,8 @@ git cherry-pick 41a0109
 3. `fig.3`을 `fig.4`의 결과와 같게 만들고 싶다면 어떤 명령어를 쳐야하는지 알려주세요(HEAD는 HEAD->master에 있음.)
 ![alt text](/sources/rebase-1.png)*fig.4*
 ```bash
-git checkout topic
-git rebase master
+git checkout master
+git rebase topic
 ```
 4. `rebase`의 조건이 있는데 어떤 것일 지 추측해보세요.(정답이 되는 조건은 설명한 적 있음.)
 - rebase의 조건은 아직 push되지않은 로컬 커밋에 대해서만 수행해야한다..?
